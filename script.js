@@ -21,7 +21,6 @@ function showTopic(topic) {
       in a database.
     `;
   }
-
   else if (topic === "dbms") {
     output.innerHTML = `
       <strong>DBMS</strong><br>
