@@ -14,7 +14,6 @@ function showTopic(topic) {
       just like a recipe tells you how to cook a dish.
     `;
   }
-
   else if (topic === "sql") {
     output.innerHTML = `
       <strong>SQL</strong><br>
